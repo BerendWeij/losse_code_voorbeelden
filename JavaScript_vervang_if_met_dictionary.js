@@ -32,8 +32,8 @@ aan het object. Dit zou al een stukje herbruikbare code kunnen zijn. Je zou het 
 ook vanuit een andere class kunnen doen. Zo is het nog meer herbruikbaar.
 */
 const keys = {
-    Space 		: () => console.log('spatie'),
-    KeyA 		: () => console.log('letter A'),
+    Space 	: () => console.log('spatie'),
+    KeyA 	: () => console.log('letter A'),
     ArrowLeft 	: () => console.log('we gaan naar links'),
     ArrowRight 	: () => console.log('we gaan naar rechts'),
     ArrowUp 	: () => console.log('we gaan naar boven'),
